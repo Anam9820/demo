@@ -1,0 +1,8 @@
+h1{
+    background-image: url(index.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px;
+    height: fit-content;
+    width: fit-content;
+}
